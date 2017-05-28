@@ -15,7 +15,7 @@ Two 10-year-experienced developer, mostly worked on Java technologies.
 ---
 ### Our outline
 
-We will present about our data-table component addon:
+#### We will present about our data-table component addon:
  - What are the problems of the previous table aproach?
  - How we achieve it?
  
