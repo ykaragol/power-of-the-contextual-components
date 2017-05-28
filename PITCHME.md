@@ -25,3 +25,24 @@ Two 10-year-experienced developer, mostly worked on Java technologies.
 ### A descriptive data-table:
 
 ...
+
+---
+### Then requirements had changed...
+
+ - We need custom renderer!
+ - We need to pass multiple data and action listeners to custom renderer!
+ - We need an editable table!
+ - The editable tables needs to show validation errors!
+
+#### The requirement were agile!
+
+---
+### Something is wrong but what?
+
+- The Open/Closed Principle!
+
+---
+At last we were very close to understand what the contextual components are!
+
+<sup>Thanks to...</sup>
+ 
