@@ -44,5 +44,26 @@ Two 10-year-experienced developer, mostly worked on Java technologies.
 ---
 At last we were very close to understand what the contextual components are!
 
-<sup>Thanks to...</sup>
+<span class="bottom:15px; position:fixed;">Thanks to...</span>
  
+---
+### Re-create a new data-table
+
+> A table should only render table related tags!
+
+#### Basic Table Usage
+#### Editable Table Usage
+
+--- 
+### What we gain?
+
+ - Open/Closed Principle
+ - Ease of development
+ - Very plugable architecture
+ 
+---
+### What we loose? Nothing?
+
+---
+### What do we need more?
+
