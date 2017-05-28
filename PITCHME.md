@@ -29,17 +29,18 @@ Two 10-year-experienced developer, mostly worked on Java technologies.
 ---
 ### Then requirements had changed...
 
+ - We need custom server-side pagination!
  - We need custom renderer!
  - We need to pass multiple data and action listeners to custom renderer!
  - We need an editable table!
  - The editable tables needs to show validation errors!
 
-#### The requirement were agile!
+#### The requirements were agile!
 
 ---
 ### Something is wrong but what?
 
-- The Open/Closed Principle!
+- The violation of Open/Closed Principle?
 
 ---
 At last we were very close to understand what the contextual components are!
@@ -47,13 +48,14 @@ At last we were very close to understand what the contextual components are!
 <span class="bottom:15px; position:fixed;">Thanks to...</span>
  
 ---
-### Re-create a new data-table
+### Re-create a new contextual data-table
 
 > A table should only render table related tags!
 
-#### Basic Table Usage
-#### Editable Table Usage
-
+ - [Basic Usage Sample](https://tubitak-bilgem-yte.github.io/ember-contextual-table/#/basic-usage)
+ - [Editable Table Usage Sample](https://tubitak-bilgem-yte.github.io/ember-contextual-table/#/cell-customization)
+ - [Pagination Sample](https://tubitak-bilgem-yte.github.io/ember-contextual-table/#/pagination)
+ 
 --- 
 ### What we gain?
 
