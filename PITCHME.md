@@ -2,18 +2,18 @@
 
 ---
  
- - What is CC?
+## - What is CC?
  
 We assume that everyone has a level of knowledge about Contextual Components
 
- - Who are we?
+## - Who are we?
 
 Two 10-year-experienced developer, mostly worked on Java technologies.
 
 1 year experience in Ember.js
  
 ---
-Our outline
+### Our outline
 
 We will present about our data-table component addon:
  - What are the problems of the previous table aproach?
@@ -21,7 +21,7 @@ We will present about our data-table component addon:
  
  
 ---
-First steps...
-A descriptive data-table:
+### First steps...
+### A descriptive data-table:
 
 ...
